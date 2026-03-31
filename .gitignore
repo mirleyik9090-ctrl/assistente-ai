@@ -1,0 +1,15 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment
+.env
